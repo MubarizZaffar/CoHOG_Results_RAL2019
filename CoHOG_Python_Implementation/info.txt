@@ -1,0 +1,4 @@
+For any queries or problems, send me an email at mubarizzaffar@gmail.com. If you find this useful, please cite our paper titled 
+"CoHOG: A Light-weight, Compute-efficient and Training-free Visual Place Recognition Technique for Changing Environments". This
+code has been written in Python 2.7.5 with Anaconda 64-bit.
+
